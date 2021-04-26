@@ -9,6 +9,7 @@ steps:
     description: >-
       Hey, it's your first time here, so let's not take any chances. Check out
       this short video to understand why people use GitHub.
+  - course: introduction-to-github
     description: >-
       That video is pretty cool, right? If you want to learn how to use the
       workflow described in that video, take this course.
