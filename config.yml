@@ -24,11 +24,32 @@ steps:
       GitHub is all about collaboration and we collaborate in issues in pull
       requests. Learn how to get your point across with the worlds easiest text
       formatting syntax.
+  - link: https://www.youtube.com/watch?v=gT0Lh1eYk78
+    title: 'Los Tres Amigos: the bulding blocks of websites'
+    description: >-
+      Modern websites are built using three different languages: HTML, CSS and
+      Javascript. Watch this video to learn how they work with one another.
   - course: githubtraining/introduction-to-html
     description: >-
       HTML is the markup language that forms the backbone of the internet. 
       In this course, you will build a clean, stunning webpage using HTML. 
+  - link: https://www.youtube.com/watch?v=XPv4EeB0PJ8
+    title: What is CSS?
+    description: >-
+      We know CSS styles a website, but how exactly does it work? Watch this
+      video for the basics of CascadingStyle Sheets.
+  - link: https://www.freecodecamp.org/learn/responsive-web-design
+    title: Learn more web development
+    description: >-
+      **[OPTIONAL]** Now you have the very basics, there are plenty of online 
+      courses  that will help you learn more advanced web development. 
+      freeCodeCamp for example offers this one you can make for free.
+  - link: https://www.youtube.com/watch?v=2MsN8gpT6jY
+    title: How to combine it all in GitHub
+    description: >-
+      **[OPTIONAL]** It will help if you are fluent with HTML and CSS, but actually
+      you can host your own websites using just GitHub. How? Meet GitHub Pages!
   - course: githubtraining/github-pages
     description: >-
-      Are you ready to make your own website with GitHub Pages? This course will 
-      help you create your first website in only a few minutes.
+      **[OPTIONAL]** Are you ready to make your own website with GitHub Pages? This 
+      course will help you create your first website in only a few minutes.
