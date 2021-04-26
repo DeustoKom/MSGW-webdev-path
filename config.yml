@@ -1,8 +1,8 @@
-title: Web Development for Journalistic Products
+title: '[MSGW] Web Development for Journalistic Products'
 description: >-
-  Welcome to GitHub! We're so glad you're here. We know it can look overwhelming at first, 
-  so here you will find a path to learn the basics of web development for journalistic products, 
-  as part of the Messages for the Web class.
+  Welcome to GitHub! We're so glad you're here. We know it can look overwhelming
+  at first,  so here you will find a path to learn the basics of web development
+  for journalistic products,  as part of the Messages for the Web class.
 steps:
   - link: 'https://youtu.be/w3jLJU7DT5E'
     title: What is GitHub?
@@ -26,9 +26,9 @@ steps:
       formatting syntax.
   - course: githubtraining/introduction-to-html
     description: >-
-      HTML is the markup language that forms the backbone of the internet. 
-      In this course, you will build a clean, stunning webpage using HTML. 
+      HTML is the markup language that forms the backbone of the internet.  In
+      this course, you will build a clean, stunning webpage using HTML. 
   - course: githubtraining/github-pages
     description: >-
-      Are you ready to make your own website with GitHub Pages? This course will 
-      help you create your first website in only a few minutes.
+      Are you ready to make your own website with GitHub Pages? This course
+      will  help you create your first website in only a few minutes.
