@@ -24,10 +24,6 @@ steps:
       GitHub is all about collaboration and we collaborate in issues in pull
       requests. Learn how to get your point across with the worlds easiest text
       formatting syntax.
-  - course: uploading-your-project-to-github
-    description: >-
-      Now that you know what GitHub does, I bet you're ready to move all of
-      those projects off your local machine. This course will show you how.
   - course: introduction-to-html
     description: >-
       HTML is the markup language that forms the backbone of the internet. 
