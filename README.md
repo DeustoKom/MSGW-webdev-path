@@ -1,8 +1,9 @@
 <p align="center"><a href="https://lab.github.com/"><img alt="Learning Lab bot" src="https://user-images.githubusercontent.com/16547949/62085817-83232580-b22a-11e9-8693-7c54205b04e5.png"></a></p>
 
-<h1 align="center">Learning Path: First Day on GitHub</h1>
+<h1 align="center">Learning Path: Web Development for Journalistic Products</h1>
 
-This repository powers the Learning Path [_First Day on GitHub_](https://lab.github.com/githubtraining/first-day-on-github). 
+This repository powers the Learning Path [_Web Development for Journalistic Products_](https://lab.github.com/githubtraining/first-day-on-github#FIXTHIS). It is based on the Learning Path [_First Day on Github_](https://lab.github.com/githubtraining/first-day-on-github). 
+
 
 ## Contribute
 
